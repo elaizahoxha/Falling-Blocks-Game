@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 // Falling Blocks Game 
-// By: Elaiza Hoxha and Thomas Sinn
+// By: Elaiza Hoxha
 // Description: A game where the player avoids falling blocks. The blocks increase in speed as the player progresses through levels.
 
 public class FallingBlocksGame extends JPanel implements ActionListener, KeyListener {
